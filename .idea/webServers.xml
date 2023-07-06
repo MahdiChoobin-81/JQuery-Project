@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fb46cdd1-4974-4dac-84bf-f4c74d865d95" name="wp-plugin" url="http://backbox.ir">
+        <fileTransfer rootFolder="/domains/backbox.ir/public_html/wp-plugin" host="backbox.ir" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="65fc1f11-dfcd-4b6f-8e15-b28a6db959e3" name="Gilas" url="http://185.94.96.122">
+        <fileTransfer host="185.94.96.122" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="89ccb13f-841b-480a-a196-28acaa27e946" name="oghaf" url="http://185.94.96.122">
+        <fileTransfer host="185.94.96.122" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
